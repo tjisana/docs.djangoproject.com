@@ -1,1 +1,1 @@
-# docs.djangoproject.com
+# Code along with docs.djangoproject.com
